@@ -1,0 +1,5 @@
+class Profitpercentage
+{
+	public static void main(String...arg)
+	{
+	
